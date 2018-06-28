@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm --registry http://172.16.33.63:7001 update && webpack-dev-server --colors -d -w",
-    "build": "npm --registry http://172.16.33.63:7001 update && webpack"
+    "start": "npm --registry http://npm.envisioncn.com:7001 update && webpack-dev-server --colors -d -w",
+    "build": "npm --registry http://npm.envisioncn.com:7001 update && webpack"
   },
   "author": "",
   "license": "ISC",
