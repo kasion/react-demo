@@ -66,10 +66,8 @@ var option = {
         proxy:{
             '**':{
                 changeOrigin:true,
-                //target:'http://apollo-alpha.envisioncn.com/',
-                target:'http://172.20.101.71:8080/'
-                //target:'https://eos-alpha.envisioncn.com/'
-                //target:'https://apollo.envisioncn.com/'
+                //target:'http://www.baidu.com/',
+               
             }
         }
     }
